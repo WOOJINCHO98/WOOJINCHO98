@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20My%20Git&fontSize=90&fontColor=#2b2b2b&animation=fadeIn)
+
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20My%20Git&fontSize=90&fontColor=#2b2b2b&animation=fadeIn)
+
 
 
 😎 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cioudi/) [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:steamedbunwith@gmail.com) 😎
