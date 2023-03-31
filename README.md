@@ -1,9 +1,9 @@
 
 <div align="center">
 
-SahmYook Univ Department of ComputerMechatronics 2017 ~ 2021
+Department of ComputerMechatronics at SahmyookUniv 2017 ~ 2021
   <br><br>
-SahmYook Univ Department of ComputerEngineering 2021 ~ ing
+SahmYook Univ Department of ComputerEngineering at SahmyookUniv 2021 ~ ing
   <br><br>
 LikeLionSYU 10th Member 2022 ~ 2022
   <br><br>
