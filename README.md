@@ -7,7 +7,7 @@ SahmYook Univ Department of ComputerEngineering at SahmyookUniv 2021 ~ ing
   <br><br>
 LikeLionSYU 10th Member 2022 ~ 2022
   <br><br>
-HelperRobotics FE IctInternship 2023 ~ ing
+HelperRobotics FE IctInternship 2023 03 ~ 2023 08
   <br><br>
   
 😎 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cioudi/) [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:steamedbunwith@gmail.com) 😎
